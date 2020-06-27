@@ -1,0 +1,9 @@
+c:\users\dzeki\documents\visual studio 2015\Projects\memory_game\memory_game\bin\Debug\memory_game.exe.config
+c:\users\dzeki\documents\visual studio 2015\Projects\memory_game\memory_game\bin\Debug\memory_game.exe
+c:\users\dzeki\documents\visual studio 2015\Projects\memory_game\memory_game\bin\Debug\memory_game.pdb
+c:\users\dzeki\documents\visual studio 2015\Projects\memory_game\memory_game\obj\Debug\memory_game.csprojResolveAssemblyReference.cache
+c:\users\dzeki\documents\visual studio 2015\Projects\memory_game\memory_game\obj\Debug\memory_game.Form1.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\memory_game\memory_game\obj\Debug\memory_game.Properties.Resources.resources
+c:\users\dzeki\documents\visual studio 2015\Projects\memory_game\memory_game\obj\Debug\memory_game.csproj.GenerateResource.Cache
+c:\users\dzeki\documents\visual studio 2015\Projects\memory_game\memory_game\obj\Debug\memory_game.exe
+c:\users\dzeki\documents\visual studio 2015\Projects\memory_game\memory_game\obj\Debug\memory_game.pdb
